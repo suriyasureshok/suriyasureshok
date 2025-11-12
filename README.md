@@ -19,9 +19,9 @@ An AI/ML & Frontend Developer blending creativity and intelligence to build seam
 | Domain | Technologies |
 |--------|---------------|
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,fastapi" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,fastapi" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /> |
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp" /> |
 
 ---
 
