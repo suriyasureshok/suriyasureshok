@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Master 👋</h1>
+<h1 align="center">Hi there, I'm Suriya Sureshkumar 👋</h1>
 
 <h3 align="center">
 An AI/ML & Frontend Developer blending creativity and intelligence to build seamless digital experiences 🚀
