@@ -72,7 +72,7 @@ I host free 1:1 mentorship sessions on Topmate (in Tamil, Hindi, or English) to 
     <td>
       <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40" alt="Hugging Face" /></a>
       <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/langchain.svg" width="40" alt="LangChain" /></a>
-      <a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" alt="OpenAI" /></a>
+<a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" alt="OpenAI" /></a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB (for RAG)" /></a>
     </td>
   </tr>
@@ -82,8 +82,6 @@ I host free 1:1 mentorship sessions on Topmate (in Tamil, Hindi, or English) to 
     <td>
       <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
       <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub Actions" /></a>
-      <a href="https://zenml.io/" target="_blank" rel="noopener noreferrer"><img src="https://zenml.io/images/logo-dark.svg" width="60" alt="ZenML" /></a>
-      <a href="https://mlflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="70" alt="MLflow" /></a>
     </td>
   </tr>
 
@@ -92,7 +90,6 @@ I host free 1:1 mentorship sessions on Topmate (in Tamil, Hindi, or English) to 
     <td>
       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" /></a>
       <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
-      <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" /></a>
       <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" /></a>
       <a href="https://sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="40" alt="SQLite" /></a>
     </td>
