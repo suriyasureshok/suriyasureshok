@@ -17,7 +17,6 @@
 
 I'm an AI/ML Developer specializing in Natural Language Processing, currently expanding into LLMOps. I’m also diving into Frontend Technologies to bridge the gap between powerful backends and unforgettable user experiences.
 
-### 👨‍💻 About Me  
 - 🎓 I’m a B.Tech Artificial Intelligence & Data Science student deeply curious about how intelligent systems are built — and how they can be made simpler, smarter, and more meaningful.
 - 🚀 I’ve been exploring the complete AI spectrum — from Machine Learning and MLOps to Large Language Models (LLMs), RAG pipelines, and NLP-driven applications.
 My projects often focus on end-to-end automation, LangChain-based AI systems, and data-driven problem solving — blending solid theory with hands-on experimentation.
