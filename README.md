@@ -118,3 +118,7 @@ I'm an AI/ML Developer with deep expertise in Natural Language Processing and La
     </td>
   </tr>
 </table>
+
+### 🌟 Let's Collaborate!
+
+I'm always open to discussing AI/ML projects, research collaborations, or mentorship opportunities. If you're working on something exciting in the NLP/LLM space or just want to connect, feel free to reach out!
