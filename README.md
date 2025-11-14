@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  I'm an AI/ML Developer specializing in NLP and LLMOps, with a strong foundation in building intelligent systems that learn and adapt. Currently expanding my expertise in data-driven applications and scalable AI solutions.
+  I'm an AI/ML Developer with deep expertise in Natural Language Processing and Large Language Models. My work focuses on building end-to-end AI systems, RAG pipelines, and intelligent applications that solve real-world problems.
 </h3>
 
 <br />
@@ -14,8 +14,6 @@
     <td valign="top" width="65%">
 
 ### 👨‍💻 About Me
-
-I'm an AI/ML Developer with deep expertise in Natural Language Processing and Large Language Models. My work focuses on building end-to-end AI systems, RAG pipelines, and intelligent applications that solve real-world problems.
 
 - 🎓 B.Tech Artificial Intelligence & Data Science student passionate about creating meaningful AI solutions
 - 🚀 Exploring the complete AI spectrum — from Machine Learning and MLOps to Large Language Models, RAG pipelines, and NLP-driven applications
