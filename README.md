@@ -22,15 +22,33 @@
 
     <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suriyasureshok&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
+  <!-- Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Developer;Building+Smart+Systems+With+Clean+Architecture;Open+Source+%7C+Problem+Solver+%7C+Always+Learning" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- Stats Cards -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="180px" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200px" />
+
+  <!-- Trophies -->
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=suriyasureshok&theme=tokyonight&margin-w=10&no-frame=true" />
+
+  <!-- Activity Graph -->
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyasureshok&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
-
-
 
 <div align="center" style="margin-top:15px;">
 
