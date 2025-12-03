@@ -23,7 +23,7 @@
     <div align="center">
 
   <!-- Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Developer;Building+Smart+Systems;Problem+Solver+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Developer;Building+Smart+Systems+%7C+Open+Source;Problem+Solver+%7C+Always+Learning" />
 
   <!-- Stats Cards -->
   <table>
