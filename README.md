@@ -31,20 +31,20 @@
   <!-- Row 1: Stats + Streak -->
   <table>
     <tr>
-      <td>
+      <td style="padding: 5px;">
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
       </td>
-      <td>
+      <td style="padding: 5px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="180px" />
       </td>
     </tr>
 
     <!-- Row 2: Languages + Productive Time -->
     <tr>
-      <td>
+      <td style="padding: 5px;">
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
       </td>
-      <td>
+      <td style="padding: 5px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suriyasureshok&theme=tokyonight" height="200px" />
       </td>
     </tr>
