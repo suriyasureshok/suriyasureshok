@@ -29,13 +29,13 @@
   <div align="center">
 
   <!-- Row 1: Stats + Streak -->
-  <table style="width:75%; border-collapse: collapse;>
+  <table style="width:50%;>
     <tr>
       <td style="padding: 3px;">
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="130px" />
       </td>
       <td style="padding: 3px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="180px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="130px" />
       </td>
     </tr>
 
@@ -45,7 +45,7 @@
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
       </td>
       <td style="padding: 3px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suriyasureshok&theme=tokyonight" height="200px" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suriyasureshok&theme=tokyonight" height="130px" />
       </td>
     </tr>
   </table>
