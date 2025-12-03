@@ -39,10 +39,14 @@
       </td>
     </tr>
 
-    <!-- Row 2: Full-width Languages card -->
+    <!-- Row 2: Languages + Productive Time -->
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" />
+      </td>
+
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suriyasureshok&theme=tokyonight" height="180px" />
       </td>
     </tr>
   </table>
