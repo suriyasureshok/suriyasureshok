@@ -20,19 +20,24 @@
 - ✍️ Writing about Machine Learning and AI to make complex concepts accessible to everyone
 - 🔭 Currently diving deeper into LLMOps and scalable AI infrastructure
 
-    </td>
-    <td valign="top" width="35%">
-      <div align="center">
-        <a href="https://github.com/suriyasureshok" aria-label="GitHub Stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&height=180px" alt="GitHub stats" />
-        </a>
-        <a href="https://github.com/suriyasureshok" aria-label="Top Languages">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&height=180px" alt="Top Languages" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+    <div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <div align="center" style="margin-top:15px;">
 
