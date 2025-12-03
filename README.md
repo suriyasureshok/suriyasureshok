@@ -26,18 +26,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Developer;Building+Smart+Systems+%7C+Open+Source;Problem+Solver+%7C+Always+Learning" />
 
   <!-- Stats Cards -->
+  <div align="center">
+
+  <!-- Row 1: Stats + Streak -->
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200px" />
+        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="180px" />
       </td>
     </tr>
+
+    <!-- Row 2: Full-width Languages card -->
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
+      </td>
+    </tr>
   </table>
-  
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+
+</div>
 
   <!-- Trophies -->
   <br/>
