@@ -21,22 +21,15 @@
 - 🔭 Currently diving deeper into LLMOps and scalable AI infrastructure
 
     <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=suriyasureshok&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
+
 
 
 <div align="center" style="margin-top:15px;">
