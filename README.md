@@ -44,7 +44,7 @@
       <td style="padding: 3px;">
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
       </td>
-      <td style="padding: 3px;">
+      <td style="padding: 3px;" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suriyasureshok&theme=tokyonight" height="130px" />
       </td>
     </tr>
