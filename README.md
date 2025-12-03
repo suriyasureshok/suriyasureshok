@@ -29,6 +29,7 @@
   <table>
     <tr>
       <td>
+        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200px" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="180px" />
