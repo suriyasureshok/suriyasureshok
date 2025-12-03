@@ -37,7 +37,7 @@
   </table>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200px" />
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200px" />
 
   <!-- Trophies -->
   <br/>
