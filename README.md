@@ -29,7 +29,7 @@
   <div align="center">
 
   <!-- Row 1: Stats + Streak -->
-  <table style="width:50%;>
+  <table>
     <tr>
       <td style="padding: 3px;">
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="130px" />
