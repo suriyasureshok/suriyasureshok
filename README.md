@@ -25,37 +25,6 @@
   <!-- Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Developer;Building+Smart+Systems+%7C+Open+Source;Problem+Solver+%7C+Always+Learning" />
 
-  <!-- Stats Cards -->
-  <div align="center">
-
-  <!-- Row 1: Stats + Streak -->
-  <table>
-    <tr>
-      <td style="padding: 3px;">
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=suriyasureshok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="130px" />
-      </td>
-      <td style="padding: 3px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&theme=tokyonight&hide_border=true" height="130px" />
-      </td>
-    </tr>
-
-    <!-- Row 2: Languages + Productive Time -->
-    <tr>
-      <td style="padding: 3px;">
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=suriyasureshok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
-      </td>
-      <td style="padding: 3px;" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suriyasureshok&theme=tokyonight" height="130px" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-  <!-- Trophies -->
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=suriyasureshok&theme=tokyonight&margin-w=10&no-frame=true" />
-
   <!-- Activity Graph -->
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyasureshok&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
